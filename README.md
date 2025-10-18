@@ -18,7 +18,6 @@ The dashboards were designed as part of a Power BI analytics project to demonstr
   - Transaction Week
   - Expense Type  
 
-
 ## Datasets Used
 1. **Customer Data** – Includes details such as:
    - Customer ID, Gender, Age, Income, Credit Score, Education, Job Type
@@ -39,9 +38,7 @@ The dashboards were designed as part of a Power BI analytics project to demonstr
   - `Current Week Revenue`
   - `Previous Week Revenue`
   - `WoW Growth %`
-
----
-
+    
 ## Dashboards Created
 
 ### **Customer Analysis Dashboard**
@@ -68,8 +65,6 @@ The dashboards were designed as part of a Power BI analytics project to demonstr
 - **Blue cards** are the most common category among customers.  
 - **Businessmen** and **White-collar** professionals earn the highest average income.  
 - High-income customers enjoy **higher credit limits (~14K)**.
-
----
 
 ### **Credit Card Transaction & Revenue Dashboard**
 **Purpose:** Analyze revenue generation, spending categories, and transaction frequency trends.
